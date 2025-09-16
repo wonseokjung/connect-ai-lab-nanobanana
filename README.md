@@ -3,29 +3,28 @@
 # Awesome-Nano-Banana🍌-images
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) 
-[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
+[![한국어](https://img.shields.io/badge/한국어-클릭하여_보기-orange)](README.md)
 [![English](https://img.shields.io/badge/English-Click_to_View-yellow)](README_en.md)
 [![Japanese](https://img.shields.io/badge/日本語-クリックして表示-green)](README_ja.md)
-[![Korean](https://img.shields.io/badge/한국어-눌러서_보기-green)](README_kr.md)
+[![简体中文](https://img.shields.io/badge/简体中文-点击查看-blue)](README_cn.md)
 
 </div>
 
+## 🍌 소개
 
-## 🍌 Introduction
+나노바나나 큐레이션 이미지 갤러리에 오신 것을 환영합니다! 🤗
 
-欢迎来到 Nano-banana 精选图片库！🤗 
+**다양한 시나리오에서 나노바나나가 생성한 놀라운 이미지와 프롬프트를 이곳에 모았습니다.** 현재 이미지 생성 및 편집 분야의 무한한 가능성을 종합적으로 보여드립니다. 이를 통해 여러분이 나노바나나의 능력에 대해 더 잘 이해할 수 있기를 바랍니다. 함께 나노바나나의 다중 이미지 합성 기술, 그리고 창의적인 편집 기능을 활용해 보아요! ✨
 
-**我们收集了Nano-banana在各个任务场景下生成的令人惊艳的图片和提示词**，全方位展示Google在图像生成与编辑的无限可能。希望能帮助你更好地了解Nano-banana。快一起解锁 Nano-banana 的多图融合与创意编辑力量吧！✨
+여기의 사례들은 주로 트위터/X 🐦, 샤오홍슈(小红书) 📕, 그리고 다른 소셜 미디어에서 가져왔습니다.
 
-这些案例主要来源于Twitter/ X 🐦、小红书📕等自媒体平台。
+마음에 드신다면 ⭐ Star 로 북마크해 주세요!
 
-喜欢就点 ⭐ Star 收藏起来吧！
+## 📰 뉴스
 
-## 📰 News
-
-- **Sep-9-2025:** 3️⃣ Third repository update
-- **Sep-3-2025:** 2️⃣ Second repository update
-- **Aug-28-2025:** 🎉 1️⃣ ${\color{red} First\ Awesome-Nano-Banana-images \ update!}$
+- **2025년 9월 9일:** 3️⃣ 세 번째 저장소 업데이트
+- **2025년 9월 3일:** 2️⃣ 두 번째 저장소 업데이트  
+- **2025년 8월 28일:** 🎉 1️⃣ ${\color{red} 첫\ Awesome-Nano-Banana-images \ 업데이트!}$
 
 ## 📑 Menu
 
